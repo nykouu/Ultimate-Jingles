@@ -224,11 +224,13 @@ function Get-SystemLabel([string]$system) {
     'ps2' = 'PS2'
     'psp' = 'PSP'
     'psv' = 'PS Vita'
+    'xbox' = 'Xbox'
     'xbox360' = 'Xbox 360'
     'steam' = 'Steam'
     'androidapps' = 'Android Apps'
     'androidgames' = 'Android Games'
     'pc98' = 'PC-98'
+    'pcengine' = 'PC Engine'
     'ngpc' = 'NGPC'
     'cdi' = 'CD-i'
     'msx' = 'MSX'
@@ -306,7 +308,7 @@ function Get-SplitEntries($entry) {
   })
 }
 
-$systems = @('gb','nes','snes','n64','gbc','gba','gc','nds','wii','n3ds','wiiu','switch','megadrive','segacd','saturn','dreamcast','psx','ps2','psp','psv','xbox360','steam','androidapps','androidgames','pc98','ngpc','cdi','msx')
+$systems = @('gb','nes','snes','n64','gbc','gba','gc','nds','wii','n3ds','wiiu','switch','megadrive','segacd','saturn','dreamcast','psx','ps2','psp','psv','xbox','xbox360','steam','androidapps','androidgames','pc98','pcengine','ngpc','cdi','msx')
 $entries = New-Object System.Collections.Generic.List[object]
 
 foreach ($system in $systems) {

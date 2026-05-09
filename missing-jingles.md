@@ -6,7 +6,6 @@ These are grouped by suggested placement, not every possible native release. Som
 
 ## Steam
 
-- Batman: Arkham Asylum
 - Crash Bandicoot N. Sane Trilogy
 - Diablo II
 - Diablo III
@@ -34,12 +33,6 @@ These are grouped by suggested placement, not every possible native release. Som
 - Perfect Dark
 - 1080 Snowboarding
 
-## GC
-
-- Mario Party 7
-- Donkey Konga
-- Donkey Konga 2
-
 ## Android Games
 
 - Monument Valley
@@ -53,10 +46,6 @@ These are grouped by suggested placement, not every possible native release. Som
 - Clash of Clans
 - Clash Royale
 - Jetpack Joyride
-
-## GBA
-
-- Mario Tennis Power Tour
 
 ## DS
 
@@ -88,7 +77,6 @@ These are grouped by suggested placement, not every possible native release. Som
 
 ## PS1
 
-- Gran Turismo 2
 - Tony Hawk's Pro Skater 2
 
 ## Variant Notes
