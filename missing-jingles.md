@@ -61,7 +61,7 @@ These are grouped by suggested placement, not every possible native release. Som
 - Fossil Fighters Champions
 - Dragon Quest VI
 
-## DS
+## 3DS
 
 - Monster Hunter Stories 3DS
 
