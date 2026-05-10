@@ -61,6 +61,10 @@ These are grouped by suggested placement, not every possible native release. Som
 - Fossil Fighters Champions
 - Dragon Quest VI
 
+## DS
+
+- Monster Hunter Stories 3DS
+
 ## PSP
 
 - Tekken: Dark Resurrection
