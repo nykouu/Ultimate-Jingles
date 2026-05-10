@@ -23,6 +23,7 @@ These are grouped by suggested placement, not every possible native release. Som
 - Burnout Paradise
 - Left 4 Dead 2
 - Old School RuneScape
+- Persona 3 RELOAD
 
 ## N64
 
