@@ -6,7 +6,6 @@ These are grouped by suggested placement, not every possible native release. Som
 
 ## Steam
 
-- Crash Bandicoot N. Sane Trilogy
 - Diablo II
 - Diablo III
 - Diablo IV
@@ -16,22 +15,23 @@ These are grouped by suggested placement, not every possible native release. Som
 - Mouse P.I. For Hire
 - Ori and the Blind Forest
 - Ori and the Will of the Wisps
-- Risk of Rain
-- Risk of Rain 2
 - Rocket League
 - Tomb Raider (2013)
 - Burnout Paradise
 - Left 4 Dead 2
 - Old School RuneScape
-- Persona 3 RELOAD
+- Danganronpa: Trigger Happy Havoc
+- Danganronpa 2: Goodbye Despair
+- Danganronpa V3: Killing Harmony
+- BioShock
+- Minecraft: Story Mode
+- Subnautica
 
 ## N64
 
 - Mario Party
 - Mario Party 2
 - Mario Party 3
-- Pokemon Stadium 2
-- Perfect Dark
 - 1080 Snowboarding
 
 ## Android Games
@@ -53,18 +53,16 @@ These are grouped by suggested placement, not every possible native release. Som
 - Pokemon Dash
 - Pokemon Trozei!
 - Pokemon Mystery Dungeon: Blue Rescue Team
-- Pokemon Conquest
 - Pokemon Typing Adventure
 - Pokemon Mystery Dungeon: Explorers of Time
 - Pokemon Mystery Dungeon: Explorers of Darkness
 - Mario Hoops 3-on-3
 - Fossil Fighters
 - Fossil Fighters Champions
-- Dragon Quest VI
 
-## 3DS
+## PS Vita
 
-- Monster Hunter Stories 3DS
+- Monster Hunter Frontier Z
 
 ## PSP
 
