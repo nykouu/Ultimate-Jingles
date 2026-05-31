@@ -12196,6 +12196,16 @@
                     "regex":  "^introduction[^a-z0-9]*we[^a-z0-9]*love[^a-z0-9]*katamari[^a-z0-9]*ost$|^iwlko$"
                 },
                 {
+                    "name":  "Jak and Daxter - The Precursor Legacy Alt",
+                    "file":  "jingles/ps2/Jak and Daxter - The Precursor Legacy Alt.ogg",
+                    "regex":  "^jak[^a-z0-9]*(?:and|\u0026|n)[^a-z0-9]*daxter[^a-z0-9]*the[^a-z0-9]*precursor[^a-z0-9]*legacy[^a-z0-9]*alt$|^jak[^a-z0-9]*(?:and|\u0026|n)[^a-z0-9]*daxter[^a-z0-9]*precursor[^a-z0-9]*legacy[^a-z0-9]*alt$|^jadpla$"
+                },
+                {
+                    "name":  "Jak and Daxter - The Precursor Legacy (PS2)",
+                    "file":  "jingles/ps2/Jak and Daxter - The Precursor Legacy.ogg",
+                    "regex":  "^jak[^a-z0-9]*(?:and|\u0026|n)[^a-z0-9]*daxter[^a-z0-9]*the[^a-z0-9]*precursor[^a-z0-9]*legacy(?![^a-z0-9]*(?:(?:alt)))$|^jak[^a-z0-9]*(?:and|\u0026|n)[^a-z0-9]*daxter[^a-z0-9]*precursor[^a-z0-9]*legacy(?![^a-z0-9]*(?:(?:alt)))$|^jadpl$"
+                },
+                {
                     "name":  "Jak II",
                     "file":  "jingles/ps2/Jak II.mp3",
                     "regex":  "^jak[^a-z0-9]*(?:ii|2|two)$|^jakii$"
