@@ -6,7 +6,6 @@ These are grouped by suggested placement, not every possible native release. Som
 
 ## 3DS
 
-- Phoenix Wright: Ace Attorney - Spirit of Justice
 - Picross e
 - Picross e2
 - Picross e3
@@ -20,7 +19,6 @@ These are grouped by suggested placement, not every possible native release. Som
 ## DS
 
 - Picross 3D
-- Ace Attorney Investigations 2
 
 ## Switch
 
