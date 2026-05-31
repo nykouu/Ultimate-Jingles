@@ -15101,6 +15101,11 @@
                       "regex":  "^tetris[^a-z0-9]*effect(?![^a-z0-9]*(?:(?:alt)))$|^tetriseffect$"
                   },
                   {
+                      "name":  "The Binding of Isaac (Steam)",
+                      "file":  "jingles/steam/The Binding of Isaac.ogg",
+                      "regex":  "^the[^a-z0-9]*binding[^a-z0-9]*of[^a-z0-9]*isaac(?![^a-z0-9]*(?:(?:rebirth)))$|^binding[^a-z0-9]*isaac(?![^a-z0-9]*(?:(?:rebirth)))$|^thebindingofisaac$"
+                  },
+                  {
                       "name":  "The Great Ace Attorney - Adventures",
                       "file":  "jingles/steam/The Great Ace Attorney - Adventures.mp3",
                       "regex":  "^the[^a-z0-9]*great[^a-z0-9]*ace[^a-z0-9]*attorney[^a-z0-9]*adventures$|^great[^a-z0-9]*ace[^a-z0-9]*attorney[^a-z0-9]*adventures$|^gaaa$"
