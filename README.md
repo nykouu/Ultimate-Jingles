@@ -14,7 +14,7 @@ After that, you can individually choose which jingle you want per game.
 
 ## Credit
 Big thanks to:
-- @Flapperultra, @Felipne87r, @Gracie Failfox, @ZephyrNights, @Subspex, @𝓶𝓮𝓼𝓱𝓸 ,@ZephyrNights ,@Qarizma688 ,@kindofblue28 ,@EvilMain, @Fynaleth, @Just Josh, @somecallmesean_
+- @Flapperultra, @RetroWave64, @Felipne87r, @Gracie Failfox, @ZephyrNights, @Subspex, @𝓶𝓮𝓼𝓱𝓸 ,@ZephyrNights ,@Qarizma688 ,@kindofblue28 ,@EvilMain, @Fynaleth, @Just Josh, @somecallmesean_
 
 ... for contributing to the repo!
 
